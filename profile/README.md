@@ -16,5 +16,3 @@ Njalsgade 76, 4th floor</br>
 Denmark</br>
 
 mail@niva-dk.dk
-
-+45 3917 9733
